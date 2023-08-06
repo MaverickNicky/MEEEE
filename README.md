@@ -17,7 +17,7 @@ interests = [
 while True:
     print("Keep Learning!")
 ```
-
+![Snake animation](https://github.com/{WaterPlanet-14}/{WaterPlanet-14}/blob/output/github-contribution-grid-snake.svg)
 ## Softwares I have used 🚀
 [![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,dart,flutter,java,aws,gcp,firebase,githubactions,git,md,html,css,bootstrap)](https://skillicons.dev)
 <div>
