@@ -1,49 +1,96 @@
 # MEEEE
-
-[![MasterHead](your image link)](your GitHub link)
-
 ![Nishant](https://github.com/WaterPlanet-14/MEEEE/assets/111655782/9a55ad6d-0c01-4eab-9491-395274539893)
 
-## About me
-```py
-Name = "Nishant Panigrahy"
-knows = ["JA", "Java", "Flutter", "Kivy"]
-learning = "Flutter"
-interests = [
-    "App development",
-    "Cybersecurity",
-    "Machine Learning & AI"
-]
-
-# TODO: Learning Data Science & Cybersecurity
-
-while True:
-    print("Keep Learning!")
-```
-![Snake animation](https://github.com/{WaterPlanet-14}/{WaterPlanet-14}/blob/output/github-contribution-grid-snake.svg)
-
-## Softwares I have used 🚀
-[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,dart,flutter,java,aws,gcp,firebase,githubactions,git,md,html,css,bootstrap)](https://skillicons.dev)
-<div>
-<img src="./img/Kivy_logo.png" alt="Kivy" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="Jetbrains" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" width="50" height="50"/>
-<img src= "https://skillicons.dev/icons?i=linux,bash,vscode"/>
+<!--[![MasterHead](your image link)](your GitHub link)-->
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/nishant-panigrahy">
+    <img src="https://img.shields.io/badge/Nishant Panigrahy-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nishant-panigrahy" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:nishantpanigrahy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://instagram.com/mavericknicky14">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
-## Statistics 📊
+## About me
+
+<img src="https://media.tenor.com/4d5T3IZ0cFEAAAAC/bear-grizzly.gif" width="270" height="390" align= "right"/>   
+
+```py
+while(no_Success) {
+    tryAgain()
+    if(Dead)                        //Target Set 🎯 
+        break
+}
+
+Knows = [ "JAVA", "PYTHON", "WEB DEV", "GIT", "SQL" ]
+Learning = ( "Flutter", "Azure", "AWS", "Node.Js", "React", "MongoDB" )
+Interests = {    "Web development" : 34!$#%$ 
+                 "Cybersecurity" : 8%*&^231
+                 "Machine Learning & AI" : 6365!$#`
+            }
+
+quote = " Code is like art; it takes creativity, dedication, and attention to
+detail and to craft something truly exceptional."
+print(quote)
+
+@Nishant Panigrahy
+```
+
+<!--![Snake animation](https://github.com/{WaterPlanet-14}/{WaterPlanet-14}/blob/output/github-contribution-grid-snake.svg) -->
+<!--fix this snake animation. I'm running this but workflow can't generate dates.-->
+
+## Tech Skills 🌟💫
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white")
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## Statistics 📊💻
 
 ![Streak](https://github-readme-stats.vercel.app/api?username=WaterPlanet-14&show_icons=true&theme=radical&hide_border=true) | ![](http://github-readme-streak-stats.herokuapp.com?user=WaterPlanet-14&theme=radical&hide_border=true&border_radius=10)
  --|--
  
-![](https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=WaterPlanet-14&show_icons=true&theme=radical&hide_border=true&border_radius=10") 
+<!--![](https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=WaterPlanet-14&show_icons=true&theme=radical&hide_border=true&border_radius=10") 
+-->
+<!--Here I want that language tool and the contribution graph like you used side by side as used above.-->
 
+-----
 
-
-## Visitors ❤️
+## Visitors ❤️♾️
 ![Visitor Count](https://profile-counter.glitch.me/WaterPlanet-14/count.svg)    
 
-----
+-----
+ Looking forward to connecting with like-minded individuals and embracing the limitless opportunities ahead. Feel free to explore my repositories and drop a message. 🤝💥
+
+
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFA900,25:FF7600,50:E01171,75:59057B,100:460C68&text=Thank%20You😁&fontSize=50&animation=blinking&height=200)
 
-
+                                                      Happy coding! 🚀👨‍💻 
