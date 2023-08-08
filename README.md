@@ -36,8 +36,8 @@ Interests = {    "Web development" : 34!$#%$
                  "Machine Learning & AI" : 6365!$#`
             }
 
-quote = " Code is like art; it takes creativity, dedication, and attention to
-detail and to craft something truly exceptional."
+quote = " Code is like art; it takes creativity, dedication, and
+attention to detail and to craft something truly exceptional."
 print(quote)
 
 @Nishant Panigrahy
