@@ -1,6 +1,6 @@
 # MEEEE
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hey,%20there!%20Ashutosh%20here.👋&fontSize=40&animation=fadeIn)
-
+[![MasterHead](your image link)](your GitHub link)
 ## About me
 ```py
 name = "Ashutosh Mahapatra"
