@@ -1,5 +1,5 @@
 # MEEEE
-![Nishant](https://github.com/WaterPlanet-14/MEEEE/assets/111655782/9a55ad6d-0c01-4eab-9491-395274539893)
+![Nishant](https://github.com/WaterPlanet-14/MEEEE/assets/111655782/ee6fe43c-c3f8-4f80-b14c-bb82c14bbc0d)
 
 <!--[![MasterHead](your image link)](your GitHub link)-->
 <div id="badges" align="center">
@@ -77,7 +77,7 @@ print(quote)
 -----
 ## Statistics 📊💻
 
-![Streak](https://github-readme-stats.vercel.app/api?username=WaterPlanet-14&show_icons=true&theme=radical&hide_border=true) | ![](http://github-readme-streak-stats.herokuapp.com?user=WaterPlanet-14&theme=radical&hide_border=true&border_radius=10)
+![Stats](https://github-readme-stats.vercel.app/api?username=WaterPlanet-14&show_icons=true&theme=radical&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com?user=WaterPlanet-14&theme=radical&hide_border=true&border_radius=10)
  --|--
  
 <!--![](https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=WaterPlanet-14&show_icons=true&theme=radical&hide_border=true&border_radius=10") 
