@@ -79,9 +79,9 @@ print(quote)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=WaterPlanet-14&show_icons=true&theme=radical&hide_border=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com?user=WaterPlanet-14&theme=radical&hide_border=true&border_radius=10)
  --|--
- 
-<!--![](https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=WaterPlanet-14&show_icons=true&theme=radical&hide_border=true&border_radius=10") 
--->
+ ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=WaterPlanet-14&show_icons=true&theme=radical&hide_border=true) | ![](https://github-readme-stats-deployment.vercel.app/api/top-langs/?username=WaterPlanet-14&show_icons=true&theme=radical&hide_border=true) |
+</div>
+
 <!--Here I want that language tool and the contribution graph like you used side by side as used above.-->
 
 -----
