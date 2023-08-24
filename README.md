@@ -83,7 +83,6 @@ print(quote)
 </div>
 
 <!--Here I want that language tool and the contribution graph like you used side by side as used above.-->
-
 -----
 
 ## Visitors ❤️♾️
@@ -91,8 +90,6 @@ print(quote)
 
 -----
  Looking forward to connecting with like-minded individuals and embracing the limitless opportunities ahead. Feel free to explore my repositories and drop a message. 🤝💥
-
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFA900,25:FF7600,50:E01171,75:59057B,100:460C68&text=Thank%20You😁&fontSize=50&animation=blinking&height=200)
 
